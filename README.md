@@ -1,2 +1,2 @@
 # sevenguys
-Seven Guys Server and cLient
+Seven Guys Server and Client
